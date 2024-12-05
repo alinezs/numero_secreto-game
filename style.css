@@ -50,3 +50,11 @@ h3{
     margin-top: 20px;
 
 }
+@media screen and (max-width: 390px){
+    body{
+        margin: 0 1.5em;
+    }
+    h1{
+        font-size: 3em;
+    }
+}
